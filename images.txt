@@ -3,7 +3,7 @@ kasmweb/nginx:1.25.3
 python
 louislam/dockge
 linuxserver/emby
-nyanmisaka/jellyfin
+jellyfin/jellyfin
 xiaoyaliu/alist
 superng6/qbittorrentee
 linuxserver/plex
