@@ -7,3 +7,4 @@ jellyfin/jellyfin
 xiaoyaliu/alist
 superng6/qbittorrentee
 linuxserver/plex
+metatube/metatube-server
